@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/glsl">
+        <file>Billboard.fsh</file>
+        <file>Billboard.vsh</file>
+        <file>LightVis.fsh</file>
+        <file>LightVis.vsh</file>
+        <file>LightVisInstanced.vsh</file>
+        <file>LightVisInstanced.fsh</file>
+        <file>ColorVis.fsh</file>
+        <file>ColorVis.vsh</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>letterX.png</file>
+        <file>letterY.png</file>
+        <file>letterZ.png</file>
+    </qresource>
+</RCC>

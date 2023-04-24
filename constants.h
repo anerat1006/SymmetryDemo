@@ -1,0 +1,20 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define PI 3.141592654
+
+#define VOX_RADIUS 0.6
+
+#define SPLIT3D_LIMIT 5
+
+#define PROG_SYM3D_PHI_DIV 10
+#define PROG_SYM3D_THETA_DIV 10
+
+#define SYM3D_COARSE_VARIANCE 0.7
+#define SYM3D_FINE_VARIANCE 4
+
+#define SYM3D_DC_MIN_ANGLE 30
+
+#define MIN_TOLERANCE 1E-5
+
+#endif // CONSTANTS_H
